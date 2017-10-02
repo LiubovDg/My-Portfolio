@@ -1,0 +1,51 @@
+.photo {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 40px;
+}
+.personal-photo {
+    justify-content: center;
+    width: 750px;
+    height: 360px;
+}
+.name {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 30px;
+    position: relative;
+    top: 250px;
+    color: #93baff;
+    font-size: 20px;
+    z-index: 1;
+}
+.start-info {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 150px;
+}
+.menu-photo {
+    width: 750px;
+}
+.menu {
+    position: relative;
+    bottom: 290px;
+}
+.top-navigation {
+    display: flex;
+    justify-content: center;
+}
+.top-navigation-bar {
+    padding: 0 35px;
+    list-style:none;
+}
+.top-navigation-bar-item {
+    text-decoration: none;
+    color: #93baff;
+}
